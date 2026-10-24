@@ -2,6 +2,8 @@
 
 A private journal app. Sign up, log in, and your notes are yours alone: every note is stamped with your account when it is saved, and every read, update, and delete checks that stamp before touching anything.
 
+**Live site:** https://private-notes-ismail.onrender.com
+
 ![Private Journal app](screenshot.png)
 
 ## What it does
